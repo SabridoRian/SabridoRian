@@ -1,7 +1,7 @@
-##Name
+## Name
 
-##Education
+## Education
 
-##Certifications
+## Certifications
 
-##Skillsets
+## Skillsets
