@@ -17,3 +17,5 @@ A developer who enjoys building clean, useful software, exploring new knowledge,
 - Tools & Platforms: Jupyter Notebook, VS Code, PyCharm
 - Problem-solving and logical thinking
 - Continuous learning and adaptability
+## Contact
+- Email : [sabridorian127@gmail.com](sabridorian127@gmai.com)
